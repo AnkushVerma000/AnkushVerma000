@@ -1,16 +1,14 @@
-- 👋 Hi, I’m @AnkushVerma000
-- 👀 I’m interested in web development and AI
-- 🌱 I’m currently learning HTML and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 linkedln - https://www.linkedin.com/in/ankush-verma-075979226/
-     #ANKUSH VERMA
+
+  #ANKUSH VERMA
 
 ## Introduction
 👋Hyy Everyone Myself Ankush Verma . I am currently study at NIT Hamirpur in Enginerring Physics . I am intrested in AI and Web Development .Currently i am learning Python and Html.
 ### **Contact **
 📫 linkedln - https://www.linkedin.com/in/ankush-verma-075979226/
+    
     Instagram - https://www.instagram.com/ankush____2004/
-    E-mail - vermaankush2004@gmail.com
+   
+   E-mail - vermaankush2004@gmail.com
 <br>
 ### 🚀 Languages and Tools I Know:
 
