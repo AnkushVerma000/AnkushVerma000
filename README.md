@@ -6,7 +6,7 @@
 ### **Contact **
 📫 linkedln - https://www.linkedin.com/in/ankush-verma-075979226/
     
-    Instagram - https://www.instagram.com/ankush____2004/
+   Instagram - https://www.instagram.com/ankush____2004/
    
    E-mail - vermaankush2004@gmail.com
 <br>
