@@ -13,12 +13,12 @@
 ### 🚀 Languages and Tools I Know:
 
 <p align="left">  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://alan.app/" target="_blank"> <img src="https://alan.app/brand_assets/icon/grayscale/alan-logo-icon-grayscale.png" width="50px"/> </a>
+    <a href="Javascript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="Html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="css" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a style="Node.js" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="Git" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+     
 </p>
 <!---
 AnkushVerma000/AnkushVerma000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
