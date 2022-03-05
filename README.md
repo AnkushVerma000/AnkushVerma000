@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/ankushv95102829" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankushv95102829" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankush-verma-075979226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankush-verma-075979226" height="30" width="40" /></a>
-<a href="https://fb.com/ankush verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankush verma" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100033712681791 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankush verma" height="30" width="40" /></a>
 <a href="https://instagram.com/ankush____2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankush____2004" height="30" width="40" /></a>
 <a href="https://discord.gg/Gunslinger#9852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gunslinger#9852" height="30" width="40" /></a>
 </p>
