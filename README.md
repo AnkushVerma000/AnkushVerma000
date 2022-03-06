@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankush Verma</h1>
-<h3 align="center">A passionate frontend developer from India and student of engineering physics at NIT Hamirpur. 
+<h3 align="center">A passionate frontend developer from India and learning new skills 
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushverma000&label=Profile%20views&color=0e75b6&style=flat" alt="ankushverma000" /> </p>
