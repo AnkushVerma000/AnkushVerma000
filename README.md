@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ankush Verma</h1>
-<h3 align="center">A passionate frontend developer from India and learning new skills.</h3>
+<h3 align="center">A passionate frontend developer from India how is learning new skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushverma000&label=Profile%20views&color=0e75b6&style=flat" alt="ankushverma000" /> </p>
 
@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/ankush-verma-075979226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankush-verma-075979226" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100033712681791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100033712681791" height="30" width="40" /></a>
 <a href="https://instagram.com/ankush____2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankush____2004" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ankush verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ankush verma" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/UChPAJ7Ej0E7L_BIBrPj0YcQ/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ankush verma" height="30" width="40" /></a>
 <a href="https://discord.gg/Gunslinger#9852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gunslinger#9852" height="30" width="40" /></a>
 </p>
 
