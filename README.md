@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently a **STUDENT**
 
-- 🌱 I’m currently learning **Python and Html**
+- 🌱 I’m currently learning **Python and Quantum Computing**
 
 - 💬 Ask me about **Anything**
 
